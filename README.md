@@ -3,5 +3,5 @@
 ### **Install dependencies:**
 
 ```
-npm i -D eslint-config-prettier eslint-plugin-prittier pritier eslint
+npm i -D eslint-config-prittier eslint-plugin-prittier prittier eslint
 ```
